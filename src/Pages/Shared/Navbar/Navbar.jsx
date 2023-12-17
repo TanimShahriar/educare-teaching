@@ -8,7 +8,7 @@ const Navbar = () => {
   const navLinks = <>
 
     <NavLink className="focus:bg-[#4287f5] px-3 py-1 text-lg  rounded-md text-black lg:text-white  btn-outline mr-2 duration-300 " to='/'>Home</NavLink>
-    <NavLink className="focus:bg-[#4287f5] px-3 py-1 text-lg  rounded-md text-black lg:text-white  btn-outline mr-2 duration-300 " to='/apartment'>Courses</NavLink>
+    <NavLink className="focus:bg-[#4287f5] px-3 py-1 text-lg  rounded-md text-black lg:text-white  btn-outline mr-2 duration-300 " to='/courses'>Courses</NavLink>
     <NavLink className="focus:bg-[#4287f5] px-3 py-1 text-lg  rounded-md text-black lg:text-white  btn-outline mr-2 duration-300 " to='/gallery'>Enrollment</NavLink>
     <NavLink className="focus:bg-[#4287f5] px-3 py-1 text-lg  rounded-md text-black lg:text-white  btn-outline mr-2 duration-300 " to='/gallery'>Payment</NavLink>
     <NavLink className="focus:bg-[#4287f5] px-3 py-1 text-lg  rounded-md text-black lg:text-white  btn-outline mr-2 duration-300 " to='/signUp'>Sign Up</NavLink>
