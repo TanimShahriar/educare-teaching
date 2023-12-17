@@ -75,7 +75,7 @@ const SignIn = () => {
 
     <>
       <Helmet>
-        <title>The Hill | Sign In</title>
+        <title>Educare Teaching | Sign In</title>
       </Helmet>
       <div className=" rounded-lg py-24 ">
         <div className="grid lg:grid-cols-2 items-center ">
